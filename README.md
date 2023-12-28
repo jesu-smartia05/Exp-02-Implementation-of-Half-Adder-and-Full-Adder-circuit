@@ -1,4 +1,4 @@
-# Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
+# Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
 ### AIM:
@@ -43,20 +43,40 @@ RegisterNumber: 212223110016
 
 1.Program to design a half adder:
 
-Screenshot 2023-11-26 202514
+![image](https://github.com/jesu-smartia05/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514819/13f562d8-bee6-475e-8ba2-0fe05f4499f3)
 
-1.Program to design a full adder:
 
-Screenshot 2023-11-26 202639
+2.Program to design a full adder:
+
+![image](https://github.com/jesu-smartia05/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514819/e872b03f-7235-4bc2-8447-db4106ad1d99)
+
 */
-Logic symbol & Truthtable
-RTL realization
+# Output:
+### RTL Realisation:
+#### HALF ADDER
 
-### Output:
-### RTL
+![image](https://github.com/jesu-smartia05/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514819/6b0cd5da-65ed-46de-8fde-3c5ef3e20f9b)
+
+#### FULL ADDER
+
+![image](https://github.com/jesu-smartia05/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514819/5ff5b03b-c4e1-48d8-9147-702b8061a36d)
+
 ### TIMING DIAGRAM
+#### HALF ADDER
+
+![image](https://github.com/jesu-smartia05/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514819/019a8238-1fe8-4c48-a142-ab08d990acf1)
+
+#### FULL ADDER
+
+![image](https://github.com/jesu-smartia05/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514819/f47349fe-098e-42ae-928a-6433af60f83b)
 
 
 ### TRUTH TABLE 
+#### HALF ADDER
+![image](https://github.com/jesu-smartia05/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514819/b677e24d-943c-40ed-aed4-787812d82599)
+
+#### FULL ADDER
+![image](https://github.com/jesu-smartia05/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514819/4d76f935-215c-4ec5-b52e-53873db1789f)
 
 ### Result:
+Thus the half adder and full adder circuit are designed and the truth table for half adder and full adder are verified.
